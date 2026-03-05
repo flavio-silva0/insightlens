@@ -1,10 +1,10 @@
-LastroLens
+InsightLens
 
 O agente inteligente de análise e insights para interações de atendimento.
 
 📌 Visão Geral
 
-O LastroLens é um sistema de análise inteligente criado para transformar interações de atendimento — chamadas telefônicas, mensagens WhatsApp (via Cooby) e registros internos — em insights de alto valor, automaticamente.
+O InsightLens é um sistema de análise inteligente criado para transformar interações de atendimento — chamadas telefônicas, mensagens WhatsApp (via Cooby) e registros internos — em insights de alto valor, automaticamente.
 
 Ele utiliza processamento de linguagem natural (NLP) para:
 
@@ -16,7 +16,7 @@ Processar mensagens de WhatsApp.
 
 Consolidar tudo em um Insight Final claro, objetivo e útil.
 
-O LastroLens é usado internamente na Lastro para aumentar a eficiência dos times, melhorar processos e transformar dados dispersos em conhecimento acionável.
+O InsightLens é usado internamente na Lastro para aumentar a eficiência dos times, melhorar processos e transformar dados dispersos em conhecimento acionável.
 
 🧠 Principais Funcionalidades
 
